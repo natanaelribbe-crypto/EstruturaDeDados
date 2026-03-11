@@ -1,5 +1,5 @@
 # Estrutura de Dados
-##Projeto realizado por Natanael , Tiago Freire, Sarah ,Lorenzo , Marco Kawakami
+## Projeto realizado por Natanael , Tiago Freire, Sarah, Lorenzo, Marco Kawakami
  
 ## Repositório para projetos de desenvolvimento de Estruturas de Dados
 
